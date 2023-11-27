@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+
+.navbar:hover {
+  background: #563ac3;
+}
+
+.navbar {
+  background: #082145;
+  color: white;
+}
+
+.accordion-button {
+  color: white;
+}
+
+.accordion-button {
+  background-color: var(--bs-red);
+}
+
+.footer-dark {
+  background-color: #082145;
+}
+
+.footer-dark:hover {
+  background-color: #563ac3;
+}
+
